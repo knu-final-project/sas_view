@@ -71,6 +71,7 @@ DJ4_PR    DJ4_PT    0.619
 DJ4_PR    DJ4_3     -0.595    
 DJ4_PR    BA2_2_6   0.53      
 DJ4_PR    DC11_PT   -0.509    
+DJ4_PR    BD2_14    -0.5      
 DJ4_PR    BE3_72    0.56      
 DJ4_PR    BE3_73    -0.645    
 DJ4_PR    BE3_74    0.526     
@@ -87,6 +88,7 @@ DJ6_PR    HE_PFTTR  -0.909
 DJ6_PR    LK_LB_IT  0.582     
 DJ6_PR    DC4_PT    0.73      
 DJ6_PR    DK4_PT    1.0       
+DJ6_PR    BD2_14    0.582     
 DJ6_PR    BS3_3     0.88      
 DJ6_PR    DN1_PR    0.548     
 DJ6_PR    DN1_PT    0.548     
@@ -125,7 +127,6 @@ DL1_PR    DC1_AG    -1.0
 DL1_PR    DC4_AG    1.0       
 DL1_PR    DC11_AG   -0.904    
 DL1_PR    AC3       -1.0      
-DL1_PR    BM13_1    -0.527    
 DL1_PR    DC4_PT    -1.0      
 DL1_PR    DC11_PT   -1.0      
 DL1_PR    BS3_3     -0.5      
@@ -175,6 +176,7 @@ DH4_PR    DC4_PT    0.632
 DH4_PR    DC6_PT    -0.5      
 DH4_PR    DC11_PT   0.75      
 DH4_PR    DK4_PT    0.5       
+DH4_PR    BD2_14    -0.5      
 DH4_PR    DN1_AG    0.81      
 -------------DC1_PR-------------------
 dis       var       Cor       
@@ -205,7 +207,6 @@ DC2_PR    DC1_AG    0.566
 DC2_PR    DC11_DG   -0.505    
 DC2_PR    DJ6_PT    1.0       
 DC2_PR    DK4_AG    0.53      
-DC2_PR    LQ4_25    -1.0      
 DC2_PR    EC_PEDU_2 0.535     
 DC2_PR    BP6_10    0.645     
 DC2_PR    BE5_1     -0.546    
@@ -260,7 +261,6 @@ DC4_PR    BA2_12    -0.5
 DC4_PR    DE2_PT    -0.667    
 DC4_PR    DC4_PT    0.721     
 DC4_PR    DL1_PT    -1.0      
-DC4_PR    M_2_RS    -0.803    
 DC4_PR    SC_SEATBLT-0.5      
 DC4_PR    BE3_82    -0.693    
 DC4_PR    BE3_83    -0.904    
@@ -280,15 +280,12 @@ DC6_PR    DJ2_AG    -0.514
 DC6_PR    DC11_AG   0.851     
 DC6_PR    DH4_AG    0.522     
 DC6_PR    DK8_AG    -0.997    
-DC6_PR    LQ4_05    -0.775    
 DC6_PR    LQ1_MN    0.553     
 DC6_PR    BA2_2_3   -1.0      
 DC6_PR    LW_MS_A   0.607     
 DC6_PR    HE_LDL_DRCT-0.947    
 DC6_PR    HE_PFTAG  0.778     
 DC6_PR    HE_PFTTR  -1.0      
-DC6_PR    BM13_2    -0.5      
-DC6_PR    BM13_4    0.5       
 DC6_PR    LK_LB_IT  -0.564    
 DC6_PR    N_DIET_WHY-0.529    
 DC6_PR    DC6_PT    0.667     
@@ -302,7 +299,6 @@ DC7_PR    DJ4_AG    0.629
 DC7_PR    DJ4_PT    0.577     
 DC7_PR    DC11_AG   -0.98     
 DC7_PR    DH4_AG    -0.577    
-DC7_PR    LQ4_10    0.618     
 DC7_PR    LQ2_MN    1.0       
 DC7_PR    BA2_2_2   0.999     
 DC7_PR    HE_MPLS   0.571     
@@ -319,7 +315,6 @@ DK8_PR    DJ4_AG    0.722
 DK8_PR    DE2_AG    -0.945    
 DK8_PR    DC1_AG    0.707     
 DK8_PR    DC3_AG    1.0       
-DK8_PR    LQ4_09    -0.565    
 DK8_PR    LQ1_MN    0.606     
 DK8_PR    AC8_1_01  0.645     
 DK8_PR    BA2_2_2   1.0       
@@ -328,8 +323,8 @@ DK8_PR    LK_LB_EF  -0.548
 DK8_PR    DC6_PT    0.5       
 DK8_PR    DF2_PT    0.707     
 DK8_PR    DK8_PT    0.88      
-DK8_PR    M_2_RS    -0.533    
 DK8_PR    AC3_2_01  -0.928    
+DK8_PR    BD2_14    -1.0      
 DK8_PR    BS3_2     0.935     
 DK8_PR    BS5_4     -0.784    
 DK8_PR    DN1_AG    -0.986    
@@ -338,9 +333,6 @@ dis       var       Cor
 DK9_PR    DM4_AG    0.725     
 DK9_PR    DJ4_PT    1.0       
 DK9_PR    DJ4_3     -1.0      
-DK9_PR    LQ4_01    0.632     
-DK9_PR    LQ4_07    0.632     
-DK9_PR    LQ4_28    0.632     
 DK9_PR    EC_OCCP   -1.0      
 DK9_PR    BA2_2_1   0.5       
 DK9_PR    BA2_2_5   -0.632    
@@ -354,7 +346,6 @@ DK9_PR    WT_OE     0.759
 DK9_PR    DI3_PT    -0.612    
 DK9_PR    DL1_PT    1.0       
 DK9_PR    DK9_PT    0.626     
-DK9_PR    M_2_RS    -0.5      
 DK9_PR    AC3_2_01  -0.736    
 DK9_PR    BS6_2     0.769     
 DK9_PR    BS6_2_1   0.769     
@@ -373,11 +364,6 @@ DK4_PR    DJ4_PT    0.612
 DK4_PR    DJ4_3     -0.612    
 DK4_PR    DC2_AG    0.591     
 DK4_PR    DC11_AG   -0.855    
-DK4_PR    LQ4_06    -0.509    
-DK4_PR    LQ4_07    -0.509    
-DK4_PR    LQ4_11    -0.509    
-DK4_PR    LQ4_13    -0.509    
-DK4_PR    LQ4_22    -0.509    
 DK4_PR    BA2_2_4   0.75      
 DK4_PR    DE1_32    0.527     
 DK4_PR    DE1_33    -0.527    

@@ -111,3 +111,23 @@ CREATE TABLE IF NOT EXISTS pred_in (
 
 -- import data_value
 COPY pred_in FROM 'path\data_value.csv' (DELIMITER ',', FORMAT CSV, HEADER, ENCODING 'EUC-KR');
+
+-- Meals Table
+CREATE TABLE IF NOT EXISTS meals (
+	user_id varchar(50),
+	date_time timestamp,
+	serving_size_g float,
+	calorie_kJ float,
+	calorie_kcal float,
+	carbohydrate_g float,
+	sugar_g float,
+	protein_g float,
+	fat_g float,
+	saturated_fat_g float,
+	polyunsaturated_fat_g float,
+	unsaturated_fat_g float,
+	cholesterol_mg float,
+	dietary_fiber_g float,
+	salt_mg float,
+	potassium_mg float
+);

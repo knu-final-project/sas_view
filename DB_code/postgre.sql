@@ -4,7 +4,7 @@
 -- 음식 영양성분 테이블
 -- food 영양성분 table
 CREATE TABLE IF NOT EXISTS Food (
-	class_num serial PRIMARY KEY,
+	class_num int PRIMARY KEY,
 	food_name varchar(50),
 	serving_size_g float,
 	calorie_kJ float,
@@ -69,7 +69,7 @@ COPY pred_out FROM 'path\data_dis.csv' (DELIMITER ',', FORMAT CSV, HEADER, ENCOD
 -- input data
 -- input table (pred_in)
 CREATE TABLE IF NOT EXISTS pred_in (
-	LQ_3EQL	int,
+	LQ_3EQL int,
 	N_MUFA float,
 	TOTAL_SLP_WD int,
 	HE_BMI float,

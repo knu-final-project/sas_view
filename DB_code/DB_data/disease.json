@@ -1,0 +1,20 @@
+{
+	"0":{"disease_num": "1", "disease_code": "DI2_DG", "disease_name": "이상지질혈증", "bad_food": ""},
+	"1":{"disease_num": "2", "disease_code": "DI3_DG", "disease_name": "뇌졸중", "bad_food": ""},
+	"2":{"disease_num": "3", "disease_code": "DI4_DG", "disease_name": "심혈관질환 (심근경색증 또는 협심증)", "bad_food": ""},
+	"3":{"disease_num": "4", "disease_code": "DM2_DG", "disease_name": "골관절염", "bad_food": ""},
+	"4":{"disease_num": "5", "disease_code": "DM3_DG", "disease_name": "류마티스성 관절염", "bad_food": ""},
+	"5":{"disease_num": "6", "disease_code": "DM4_DG", "disease_name": "골다공증", "bad_food": ""},
+	"6":{"disease_num": "7", "disease_code": "DJ2_DG", "disease_name": "폐결핵", "bad_food": ""},
+	"7":{"disease_num": "8", "disease_code": "DJ4_DG", "disease_name": "천식", "bad_food": ""},
+	"8":{"disease_num": "9", "disease_code": "DC3_DG", "disease_name": "대장암", "bad_food": ""},
+	"9":{"disease_num": "10", "disease_code": "DK8_DG", "disease_name": "B형간염", "bad_food": ""},
+	"10":{"disease_num": "11", "disease_code": "DJ6_DG", "disease_name": "부비동염", "bad_food": ""},
+	"11":{"disease_num": "12", "disease_code": "DJ8_DG", "disease_name": "알레르기비염", "bad_food": ""},
+	"12":{"disease_num": "13", "disease_code": "DF2_DG", "disease_name": "우울증", "bad_food": ""},
+	"13":{"disease_num": "14", "disease_code": "DL1_DG", "disease_name": "아토피피부염", "bad_food": ""},
+	"14":{"disease_num": "15", "disease_code": "DE1_DG", "disease_name": "당뇨병", "bad_food": ""},
+	"15":{"disease_num": "16", "disease_code": "DE2_DG", "disease_name": "갑상선 질환", "bad_food": ""},
+	"16":{"disease_num": "17", "disease_code": "DH4_DG", "disease_name": "중이염", "bad_food": ""},
+	"17":{"disease_num": "18", "disease_code": "DC1_DG", "disease_name": "위암", "bad_food": ""}
+}

@@ -28,7 +28,7 @@ COPY Food FROM 'path\food.csv' (DELIMITER ',', FORMAT CSV, HEADER, ENCODING 'EUC
 -- 질병 테이블
 -- disease table
 CREATE TABLE IF NOT EXISTS disease (
-	disease_num serial,
+	disease_num int,
 	disease_code varchar(10) primary key,
 	disease_name varchar(50),
 	bad_food varchar(50)
@@ -130,4 +130,31 @@ CREATE TABLE IF NOT EXISTS meals (
 	dietary_fiber_g float,
 	salt_mg float,
 	potassium_mg float
+);
+
+
+-- Disease results
+CREATE TABLE IF NOT EXISTS dis_results (
+	DI2_DG float,
+	DI3_DG float,
+	DI4_DG float,
+	DI5_DG float,
+	DM2_DG float,
+	DM3_DG float,
+	DM4_DG float,
+	DJ2_DG float,
+	DJ4_DG float,
+	DJ6_DG float,
+	DJ8_DG float,
+	DI6_DG float,
+	DF2_DG float,
+	DL1_DG float,
+	DE1_DG float,
+	DE2_DG float,
+	DH4_DG float,
+	DC1_DG float,
+	DC3_DG float,
+	DK8_DG float,
+	user_id varchar(50),
+	cnt int
 );
